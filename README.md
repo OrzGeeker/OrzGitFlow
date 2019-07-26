@@ -14,6 +14,10 @@ The Git Flow Practice
 
 ![Git Main Branch](images/main-branches@2x.png)
 
+## Merge Branch
+
+![Merge Branch](images/merge-without-ff@2x.png)
+
 ## Reference
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
