@@ -6,6 +6,9 @@ The Git Flow Practice
 
 ![Git Flow Model](images/git-model@2x.png)
 
+## Git User Model
+
+![Git User Model](images/centr-decentr@2x.png)
 ## Reference
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
