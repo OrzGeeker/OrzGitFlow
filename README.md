@@ -18,6 +18,14 @@ The Git Flow Practice
 
 ![Merge Branch](images/merge-without-ff@2x.png)
 
+## Feature Branch
+
+![Feature Branch](images/fb@2x.png)
+
+## HotFix Branch
+
+![HotFix Branch](images/hotfix-branches@2x.png)
+
 ## Reference
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
