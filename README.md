@@ -2,9 +2,11 @@
 
 The Git Flow Practice
 
-# The Git Flow
+## The Git Flow
 
 ![Git Flow Model](images/git-model@2x.png)
+
+
 
 # Reference
 
