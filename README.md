@@ -8,6 +8,6 @@ The Git Flow Practice
 
 
 
-# Reference
+## Reference
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
