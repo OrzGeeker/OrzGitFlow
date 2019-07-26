@@ -10,3 +10,4 @@ The Git Flow Practice
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Git](https://git-scm.com)
+- [Git Tutorial CN](https://www.liaoxuefeng.com/wiki/896043488029600)
